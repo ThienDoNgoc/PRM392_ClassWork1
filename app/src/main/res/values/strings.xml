@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string-array name="app_name_products">
+        <item>phamacy</item>
+        <item>phone</item>
+        <item>laptop</item>
+        <item>tablet</item>
+        <item>tv</item>
+        <item>watch</item>
+        <item>headphone</item>
+        <item>mouse</item>
+        <item>keyboard</item>
+        <item>mousepad</item>
+        <item>monitor</item>
+        <item>speakers</item>
+    </string-array>
 </resources>
+
